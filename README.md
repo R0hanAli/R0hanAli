@@ -1,4 +1,4 @@
-# 🔥 Yo, I’m Rohan Ali
+# 🔥 Hello, I’m Rohan Ali
 > **App & Web Developer** | Turning chaotic ideas into sleek, high-performing digital realities.
 
 🚀 **What I'm up to:** Building high-impact apps, pushing clean code, and breaking things (so I can fix them better).  
