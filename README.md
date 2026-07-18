@@ -47,8 +47,4 @@
 
 Got a cool project, an ambitious startup idea, or just want to geek out over tech? Let's talk!
 
-<p align="left">
-  <a href="[[https://linkedin.com/in/ROHAN ALI]](https://www.linkedin.com/in/rohan-ali-a59a673a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.rohan.ali9864.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
 
