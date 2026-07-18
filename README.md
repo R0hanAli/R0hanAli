@@ -47,4 +47,5 @@
 
 Got a cool project, an ambitious startup idea, or just want to geek out over tech? Let's talk!
 
-
+- 📧 **Email:** [rohan.ali9864@gmail.com](mailto:rohan.ali9864@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rohan-ali-a59a673a2?utm_source=share_via&utm_content=profile&utm_medium=member_android
