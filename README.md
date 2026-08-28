@@ -1,8 +1,16 @@
 <p align="center">
   <a href="https://github.com/R0hanAli">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Rohan Ali" />
   </a>
 </p>
+
+<h1 align="center">Rohan Ali</h1>
+
+<h2 align="center">Mobile & Full-Stack Developer</h2>
+
+<p align="center"> <strong>Flutter • Node.js • React • Firebase • Supabase</strong> </p>
+
+<p align="center"> Building modern mobile apps, scalable web applications, and reliable backend systems. </p>
 
 ### 🛠️ Tech Stack
 
