@@ -14,11 +14,11 @@ I'm a Mobile &amp; Full Stack Developer focused on building modern, scalable, an
 
 🔭 &nbsp;I'm currently working on **Flutter mobile applications, full-stack web projects, and custom software solutions**  
 🌱 &nbsp;I'm currently learning **AI, AI automation, advanced backend development, and scalable system architecture**  
-👯 &nbsp;I'm looking to collaborate on **Flutter apps, full-stack applications, SaaS projects, and open-source projects**  
+👯 &nbsp;I'm looking to collaborate on **Flutter apps, full-stack applications, SaaS projects, and open source projects**  
 🤔 &nbsp;I'm looking for help with **Advanced AI integrations, system scalability, and building production-ready applications**  
 💬 &nbsp;Ask me about **Flutter, Dart, Node.js, React, Firebase, Supabase, REST APIs, and full-stack development**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I enjoy turning ideas into real-world applications and learning new technologies by building projects**
+⚡ &nbsp;Fun fact: **I enjoy turning ideas into real world applications and learning new technologies by building projects**
 
 ### 🛠️ Tech Stack
 
