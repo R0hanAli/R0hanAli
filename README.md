@@ -136,18 +136,6 @@ A Windows desktop POS system built with C#, WPF, XAML and SQL Server.
 
 </div>
 
-<br>
-
-## 🐍 Contribution activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/R0hanAli/R0hanAli/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
-<br>
-
 ## 🧠 Currently learning
 
 <div align="center">
